@@ -3,7 +3,7 @@ const mongoose = require('mongoose');
 //configuracion para guardar variables de entorno
 // const {NOTAS_APP_MONGODB_HOST, NOTAS_APP_MONGODB_DATABASE} = process.env;
 
-const MONGODB_URI ="mongodb+srv://notas:1234@cluster0.ingw2a1.mongodb.net/?retryWrites=true&w=majority";
+const MONGODB_URI ="mongodb+srv://notas:12345@cluster0.gjpklmx.mongodb.net/?retryWrites=true&w=majority";
 
 // const MONGODB_URI = `mongodb://${NOTAS_APP_MONGODB_HOST}/${NOTAS_APP_MONGODB_DATABASE}`;
 
